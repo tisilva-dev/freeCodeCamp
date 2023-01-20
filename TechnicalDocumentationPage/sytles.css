@@ -1,0 +1,8 @@
+@media (max-width: 1199px) and (min-width: 769px) {
+    #navbar{
+      width:675px;
+    }
+    .nav-link{
+      width:633px;
+    }
+    }
